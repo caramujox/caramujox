@@ -11,10 +11,10 @@
 > 🏢 : Itaú Unibanco S.A. - Comunidade AGRO<br>
 
 </p>
-<a href="https://github.com/caramujox/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caramujox&show_icons=true&theme=chartreuse-dark">
 </a>
-<a href="https://github.com/caramujox/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caramujox&layout=compact&theme=chartreuse-dark" />
 </a>
 
