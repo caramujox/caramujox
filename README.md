@@ -3,7 +3,7 @@
 <a>
   <img src="https://github.com/caramujox.png" alt="Profile Image" align="right" style="border-radius:2rem">
 </a>
-<i>"Become what you must"</i>
+
 <p align="left"> 
   Olá, tudo bem? Seja bem vindo(a)!<br> Meu nome é Caio e este é o meu Github!<br><br> 
   Se você está aqui, imagino que queira conhecer meu trabalho...Aqui vão as informações basicas:
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caramujox/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a><br><br><br>
 </p>
 
 ---
