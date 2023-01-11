@@ -19,9 +19,6 @@
 ---
 
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-ten-green.vercel.app/api?username=caramujox&show_icons=true&theme=chartreuse-dark">
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats-ten-green.vercel.app/api/top-langs/?username=caramujox&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
