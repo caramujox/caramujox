@@ -20,7 +20,7 @@
 
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats-ten-green.vercel.app/api/top-langs/?username=caramujox&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-ten-green.vercel.app/api/top-langs/?username=caramujox&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
 <br>
